@@ -1,21 +1,16 @@
 class Solution {
     public int singleNumber(int[] nums) {
-         int ans = 0;
+         HashMap<Integer,Integer> ans=new HashMap<>();
+         for(int num:nums){
+            ans.put(num,ans.getOrDefault(num,0)+1);
 
-        for (int i = 0; i < 32; i++) {
-            int count = 0;
-
-            for (int num : nums) {
-                if (((num >> i) & 1) == 1) {
-                    count++;
-                }
+         }
+         for(int val:ans.keySet()){
+            if(ans.get(val)==1){
+                return val;
             }
-
-            if (count % 3 != 0) {
-                ans |= (1 << i);
-            }
-        }
-
-        return ans;
+         }
+         return -1;
+         
     }
 }
