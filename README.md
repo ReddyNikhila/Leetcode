@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/ReddyNikhila/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0055-jump-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
