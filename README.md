@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ReddyNikhila/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/ReddyNikhila/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/ReddyNikhila/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ReddyNikhila/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0877-stone-game) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ReddyNikhila/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/ReddyNikhila/Leetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/ReddyNikhila/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0877-stone-game) |
