@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ReddyNikhila/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ReddyNikhila/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ReddyNikhila/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ReddyNikhila/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0055-jump-game) |
+| [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ReddyNikhila/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ReddyNikhila/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddyNikhila/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ReddyNikhila/Leetcode/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
@@ -102,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddyNikhila/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
