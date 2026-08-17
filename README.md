@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ReddyNikhila/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ReddyNikhila/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ReddyNikhila/Leetcode/tree/master/0912-sort-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ReddyNikhila/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/ReddyNikhila/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ReddyNikhila/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddyNikhila/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ReddyNikhila/Leetcode/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddyNikhila/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ReddyNikhila/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Timsort
 |  |
 | ------- |
@@ -131,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ReddyNikhila/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ReddyNikhila/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/ReddyNikhila/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
