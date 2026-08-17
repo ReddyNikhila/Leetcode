@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ReddyNikhila/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ReddyNikhila/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ReddyNikhila/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ReddyNikhila/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/ReddyNikhila/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ReddyNikhila/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ReddyNikhila/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/ReddyNikhila/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ReddyNikhila/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
