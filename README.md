@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ReddyNikhila/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0486-predict-the-winner](https://github.com/ReddyNikhila/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ReddyNikhila/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ReddyNikhila/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ReddyNikhila/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ReddyNikhila/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
 ## Matrix
 |  |
 | ------- |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ReddyNikhila/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ReddyNikhila/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
