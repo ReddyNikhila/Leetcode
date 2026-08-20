@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ReddyNikhila/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ReddyNikhila/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/ReddyNikhila/Leetcode/tree/master/0912-sort-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ReddyNikhila/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ReddyNikhila/Leetcode/tree/master/0912-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ReddyNikhila/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
